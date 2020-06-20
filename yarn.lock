@@ -6341,7 +6341,7 @@ gatsby-awesome-pagination@0.3.6:
   dependencies:
     lodash "^4.17.15"
 
-gatsby-cli@^2.12.21, gatsby-cli@^2.12.46:
+gatsby-cli@^2.12.21, gatsby-cli@^2.12.47:
   version "2.12.47"
   resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-2.12.47.tgz#d1503b9a0bc442ac3c55c8ea7e5812026bede18b"
   integrity sha512-rSjHCpG/3XBk0DNuhYrMzoLp+qprVsaooC+qHNAKNk3B+Kf3Ojvb3DFScbqmsVLZgpHw5vnq/GweEbNrYIMZlw==
