@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "6e50cfc83542fa957a7760efbc"
+    "apiUrl": "https://tyler-steimle-photographer-ghost-code-studios.ghost.io",
+    "contentApiKey": "9938b5b37c91c23fbe65950e60"
   },
   "production": {
-    "apiUrl": "http://localhost:2368",
-    "contentApiKey": "6e50cfc83542fa957a7760efbc"
+    "apiUrl": "https://tyler-steimle-photographer-ghost-code-studios.ghost.io",
+    "contentApiKey": "9938b5b37c91c23fbe65950e60"
   }
 }
